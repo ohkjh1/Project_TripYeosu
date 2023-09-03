@@ -1,5 +1,5 @@
 # miniTestReal 
-https://ohkjh1.github.io/miniTestReal/
+https://ohkjh1.github.io/Project_TripYeosu/
 #'아래여수' 웹사이트 </br>
 
 </br>
